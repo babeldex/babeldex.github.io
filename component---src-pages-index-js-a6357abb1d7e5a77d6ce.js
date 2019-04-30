@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{144:function(e,a,n){"use strict";n.r(a);var t=n(0),l=n.n(t),c=(n(147),n(150)),o=n(158),r=n(149);a.default=function(){return l.a.createElement(c.a,null,l.a.createElement(r.a,{title:"Babeldex",keywords:["babeldex","blockchain","on-boarding"]}),l.a.createElement("div",{class:"bg-logo",style:{maxWidth:"600px"}},l.a.createElement(o.a,null)))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-a6357abb1d7e5a77d6ce.js.map
